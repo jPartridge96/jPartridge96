@@ -31,6 +31,8 @@ public class Me : SoftwareDeveloper
     }
 }
 ```
+<br/>
+
 
 <!-- Programming languages I know and where I excel -->
 #
@@ -84,6 +86,7 @@ I am equipped to use a variety of programming languages, however I am most comfo
 <a href="https://github.com/jPartridge96">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&layout=compact" />
 </a>
+<br/>
 
 <!-- Social Media Outlets -->
 #

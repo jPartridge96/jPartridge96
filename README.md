@@ -10,8 +10,7 @@
     https://github.com/devicons/devicon/
 -->
 
-# Thanks for stopping by! ☕ [![Hits](https://hits.sh/github.com/jPartridge96/hits.svg?label=%F0%9F%91%8B&labelColor=ffffff)](https://hits.sh/github.com/jPartridge96/hits/)
-<br/>
+# Thanks for stopping by! ☕ | [![Hits](https://hits.sh/github.com/jPartridge96.svg?style=for-the-badge&color=e05d44)](https://hits.sh/github.com/jPartridge96/)
 
 <!-- A brief introduction about myself -->
 ## ✏️ About Me
@@ -66,8 +65,8 @@ public class Me : SoftwareDeveloper
 <td valign="top" width="50%">
 
 ### Application
-I am equipped to use a variety of programming languages, however I am most comfortable with C# and its object-oriented programming features, which allow me to write clean, efficient, and scalable code for a wide range of applications.
-<img src="https://i.imgur.com/yl3TsX3.png" align="center" alt="Dispatch Login" max-width="100%" />
+I am equipped to use a variety of programming languages, however I am most comfortable with C# and its object-oriented programming features, which allow me to write clean, efficient, and scalable code for a wide range of applications. <br/>
+<img src="https://i.imgur.com/yl3TsX3.png" align="center" alt="Dispatch Login" max-width="100%"/>
 </td>
 </tr>
 </table>

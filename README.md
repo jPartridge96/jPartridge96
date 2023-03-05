@@ -84,7 +84,7 @@ I am equipped to use a variety of programming languages, however I am most comfo
 </a>
 
 <a href="https://github.com/jPartridge96">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jPartridge96&theme=dark&layout=compact" />
 </a>
 <br/>
 

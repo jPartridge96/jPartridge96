@@ -10,7 +10,7 @@
     https://github.com/devicons/devicon/
 -->
 
-# Thanks for stopping by! ☕ [![Hits](https://hits.sh/github.com/jPartridge96.svg?style=plastic&label=visits&color=e05d44)](https://hits.sh/github.com/jPartridge96/)
+# Thanks for stopping by! ☕ [![Hits](https://hits.sh/github.com/jPartridge96.svg?label=visits&color=e05d44)](https://hits.sh/github.com/jPartridge96/)
 
 <!-- A brief introduction about myself -->
 ## ✏️ About Me

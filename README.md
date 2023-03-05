@@ -39,8 +39,8 @@ public class Me : SoftwareDeveloper
 <table>
 <tr>
 <td valign="top" width="50%">
-### Languages
 
+### Languages
 <div align="center">  
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="75" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
@@ -64,10 +64,10 @@ public class Me : SoftwareDeveloper
 </td>
 
 <td valign="top" width="50%">
-### Application
 
+### Application
 I am equipped to use a variety of programming languages, however I am most comfortable with C# and its object-oriented programming features, which allow me to write clean, efficient, and scalable code for a wide range of applications.
-<img src="https://lh3.googleusercontent.com/iqnF4UBn88-Ld6PIiyxkjSh_VNsCtiQoPKdDxt36qtcPxd199ytQebOuTRdAHJ9JLG24kolKD0tZkpWd78z9culljP_Cxhsuj1Y5r19KCzavSt2tOgAyqtW1rFdFf3Yzzg=w1280" align="center" alt="Dispatch Login" max-width="100%" />
+<img src="https://i.imgur.com/yl3TsX3.png" align="center" alt="Dispatch Login" max-width="100%" />
 </td>
 </tr>
 </table>

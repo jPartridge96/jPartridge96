@@ -67,7 +67,7 @@ public class Me : SoftwareDeveloper
 <td valign="top" width="50%">
 
 ### Application
-I am equipped to use a variety of programming languages, however I am most comfortable with C# and its object-oriented programming features, which allow me to write clean, efficient, and scalable code for a wide range of applications.
+I am equipped to use a variety of programming languages. However, I am most comfortable with C# and its object-oriented programming features, allowing me to write clean, efficient, and scalable code for various applications. 
 <p>&nbsp;<p>
 <img src="https://i.imgur.com/yl3TsX3.png" align="center" alt="Dispatch Login" max-width="100%"/>
 </td>

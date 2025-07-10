@@ -17,9 +17,12 @@
 </div>
 
 <div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=jPartridge96&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=jPartridge96&theme=transparent&hide_border=true)
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=jPartridge96&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=jPartridge96&theme=transparent&hide_border=true" alt="GitHub Streak" height="200">
+  </div>
 </div>
+
 
 ## Featured Projects <sub><sub><i>Click to watch</i></sub></sub>
 <div align="center">

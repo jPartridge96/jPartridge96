@@ -1,94 +1,68 @@
 <!--
     I see you! 👀
 
-    Were you interested in what I had to say? Start a conversation with me: jordan@meetgroup.one
-
-    Feel free to copy any of what you see for your own GitHub REAMDE.md!
-    Most of what I used were templates already available from sources such as:
-    https://github.com/silentsoft/hits
-    https://github.com/rishavanand/github-profilinator
-    https://github.com/devicons/devicon/
+    Were you interested in what I had to say? Start a conversation with me: business@jpar.ca
 -->
 
-# Thanks for stopping by! ☕ [![Hits](https://hits.sh/github.com/jPartridge96.svg?label=visits&color=e05d44)](https://hits.sh/github.com/jPartridge96/)
+<div align="right">
+  
+  [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/jpar-ca.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedIn&logoColor=white)](https://linkedin.com/in/j-par) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/jpar-ca) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jpar_ca)
+</div>
 
-<!-- A brief introduction about myself -->
-## ✏️ About Me
-```c#
-public class Me : SoftwareDeveloper
-{
-    public string name = "Jordan Partridge";
-    public string pronouns = "he/him";
-    public string[] languages = {"C#", "Java", "JavaScript", "SQL"};
-
-    /// <summary>
-    /// Politely introduces theirself and states their preferred programming languages
-    /// </summary>
-    public string Introduce() 
-    {
-        string languagesStr = string.Join(", ", languages);
-        return $"Hello, I'm {name} ({pronouns}), and I'm proficient in {languagesStr}.";
-    }
-}
-```
-<br/>
-
-
-<!-- Programming languages I know and where I excel -->
 #
-## 💼 Experience
-<table>
-<tr>
-<td valign="top" width="50%">
 
-### Toolbox
 <div align="center">
-    <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="75" /></a>  
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="75" /></a>  
-    <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="75" /></a>  
-    <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
-    </br>
-    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>
-    <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
-    <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
-    <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" /></a>  
-    </br>
-    <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" /></a>   
-    <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="75" /></a>  
-    <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
-    <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="75" /></a>  
-    </div>
-</td>
+  
+  ![](https://github-profile-trophy.vercel.app/?username=jPartridge96&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+</div>
 
-<td valign="top" width="50%">
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=jPartridge96&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=jPartridge96&theme=transparent&hide_border=true)
+</div>
 
-### Application
-I am equipped to use a variety of programming languages. However, I am most comfortable with C# and its object-oriented programming features, allowing me to write clean, efficient, and scalable code for various applications. 
-<p>&nbsp;<p>
-<img src="https://i.imgur.com/yl3TsX3.png" align="center" alt="Dispatch Login" max-width="100%"/>
-</td>
-</tr>
-</table>
-<br/>
+## Featured Projects <sub><sub><i>Click to watch</i></sub></sub>
+<div align="center">
+  <table>
+    <tr>
+      <td> 
+         
+  [![YouTube Video](https://img.youtube.com/vi/pnhJli4-ffE/0.jpg)](https://www.youtube.com/watch?v=pnhJli4-ffE)
+      </td>
+      <td align="left">
+        <p><b><a href="https://www.youtube.com/watch?v=pnhJli4-ffE">Ambulance Orientation - Release Candidate Preview</a></b></p>
+        <p><i>Ambulance Orientation</i> was inserted into the curriculum of Conestoga College's paramedicine program. We replicate a live-service ambulance in the Waterloo region. It offers real world scenarios and allows students to interact with the ambulance in a safe and controlled environment.</p>
+        <div>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat-square&logo=confluence&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white)</div>
+      </td>
+    </tr>
+    <tr>
+      <td> 
+         
+  [![YouTube Video](https://img.youtube.com/vi/tpOpe0puRU4/0.jpg)](https://www.youtube.com/watch?v=tpOpe0puRU4)
+      </td>
+      <td align="left">
+        <p><b><a href="https://www.youtube.com/watch?v=tpOpe0puRU4">Lockbox AMS - Capstone Demo</a></b></p>
+        <p><i>Lockbox AMS</i> is a robust Asset Management Solution used to digitize and add transparency to your inventory. It allows you to track your assets, manage inventory, and streamline operations. The platform is designed to be user-friendly and efficient, making it easy for businesses to manage their assets effectively.</p>
+        <div>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)</div>
+      </td>
+    </tr>
+    <tr>
+      <td> 
+         
+  [![YouTube Video](https://img.youtube.com/vi/j-LewM2-uEA/0.jpg)](https://www.youtube.com/watch?v=j-LewM2-uEA)
+      </td>
+      <td align="left">
+        <p><b><a href="https://www.youtube.com/watch?v=j-LewM2-uEA">MovieRadar - Live Demo & Breakdown</a></b></p>
+        <p><i>MovieRadar</i> is a mobile application that was developed in Android Studio using Java. It allows users to search for movies, view details, and get recommendations based on their preferences. The app integrates with the Open Movie Database to fetch real-time data..</p>
+        <div>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)</div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
-<!-- GitHub Statistics -->
 #
-### 📈 Statistics
-<a href="https://github.com/jPartridge96">
-<img align="center" src="https://streak-stats.demolab.com?user=jPartridge96&theme=dark" />
-</a>
-
-<a href="https://github.com/jPartridge96">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jPartridge96&theme=dark&layout=compact" />
-</a>
-<br/>
-
-<!-- Social Media Outlets -->
-#
-### 🔗 Lets Connect!
-<div>
-<a href="https://www.linkedin.com/in/j-par" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<div align="center">
+  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat-square&logo=confluence&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white)
+</div>

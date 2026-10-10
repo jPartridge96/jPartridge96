@@ -6,20 +6,10 @@
 
 <div align="right">
   
-  [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/jpar-ca.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedIn&logoColor=white)](https://linkedin.com/in/j-par) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/jpar-ca) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jpar_ca)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedIn&logoColor=white)](https://linkedin.com/in/j-par) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jpar_ca)
 </div>
 
 #
-
-<div align="center">
-  
-  ![](https://github-profile-trophy.vercel.app/?username=jPartridge96&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-</div>
-
-<div align="center">
-  
-  ![](https://nirzak-streak-stats.vercel.app/?user=jPartridge96&theme=transparent&hide_border=true) ![](https://github-readme-stats.vercel.app/api?username=jPartridge96&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true)
-</div>
 
 
 ## Featured Projects <sub><sub><i>Click to watch</i></sub></sub>

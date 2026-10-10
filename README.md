@@ -9,9 +9,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedIn&logoColor=white)](https://linkedin.com/in/j-par) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jpar_ca)
 </div>
 
-#
-
-
 ## Featured Projects <sub><sub><i>Click to watch</i></sub></sub>
 <div align="center">
   <table>
@@ -22,7 +19,7 @@
       </td>
       <td align="left">
         <p><b><a href="https://www.youtube.com/watch?v=pnhJli4-ffE">Ambulance Orientation - Release Candidate Preview</a></b></p>
-        <p><i>Ambulance Orientation</i> was inserted into the curriculum of Conestoga College's paramedicine program. We replicate a live-service ambulance in the Waterloo region. It offers real world scenarios and allows students to interact with the ambulance in a safe and controlled environment.</p>
+        <p><i>Ambulance Orientation</i> was inserted into the curriculum of Conestoga College's paramedicine program. We replicate a live-service ambulance in the Waterloo region. It offers real-world scenarios and allows students to interact with the ambulance in a safe and controlled environment.</p>
         <div>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat-square&logo=confluence&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white)</div>
       </td>
     </tr>
